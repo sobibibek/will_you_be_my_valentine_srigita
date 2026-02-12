@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "EI?",
+    "EI ERAM KORBI AMR SATHE??",
+    "EI 🥹?",
+    "🥹🥹🥹🥹 erm korte parbi...",
+    "ill be good boy 🥹🥹!",
+    "kuchupuchu... 🥹🥹🥹...",
+    "Ami kintu kadbo...",
+    "Ami kintu ebr onek kadbo...",
+    "ACHA EBR AMI KADCHI AR JIGGESH HI KORBONA...",
+    "Just kidding, say yes pleaseeeeeeeee! ❤️"
 ];
 
 let messageIndex = 0;
@@ -24,4 +24,5 @@ function handleNoClick() {
 
 function handleYesClick() {
     window.location.href = "yes_page.html";
+
 }
